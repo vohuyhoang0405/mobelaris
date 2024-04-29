@@ -1,0 +1,15 @@
+{
+  "body": "Hello\n",
+  "blocks": [
+    {
+      "datetime": "2023-05-28T16:00:00.000Z",
+      "link": "/express-delivery",
+      "bg": "/_next_tina/uploads/Spring-Bank-Holiday-DE.jpg",
+      "color": "#2A2A2A",
+      "countdown_postion": " {\"top\":\"79\",\"left\":\"36\",\"width\":\"28\",\"font-size\":\"40\",\"font\":\"Verlag Black\"}",
+      "bg_mobile": "/_next_tina/uploads/Spring-Bank-Holiday-Mobile-DE.jpg",
+      "mobile_countdown_postion": "{\"top\":\"68\",\"left\":\"18\",\"width\":\"64\",\"font-size\":\"25\",\"font\":\"Verlag Black\"}",
+      "_template": "hero"
+    }
+  ]
+}

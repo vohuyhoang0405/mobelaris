@@ -1,0 +1,6 @@
+{
+  "slug": "/modern-tv-unit",
+  "title": "Modern TV Unit",
+  "body": "Modern TV stand, and media storage by Designer Editions, sourced and manufactured to the highest quality. Buying direct from the factory, we are able to offer our customers the best in design and price. We add new oak media storage and functional TV stands weekly, delivered throughout Europe.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"modern-tv-unit\",\n  \"data\": {\n    \"id\": \"pcol_01GQ45AW7WM8B4GHXQPAY87Y6V\",\n    \"created_at\": \"2023-01-19T04:42:00.828Z\",\n    \"updated_at\": \"2023-01-19T04:42:00.828Z\",\n    \"deleted_at\": null,\n    \"title\": \"Modern TV Unit\",\n    \"handle\": \"modern-tv-unit\",\n    \"metadata\": {\n      \"description\": \"Modern TV stand, and media storage by Designer Editions, sourced and manufactured to the highest quality. Buying direct from the factory, we are able to offer our customers the best in design and price. We add new oak media storage and functional TV stands weekly, delivered throughout Europe.\"\n    }\n  }\n}"
+}

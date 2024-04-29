@@ -1,0 +1,6 @@
+{
+  "slug": "/mario-bellini",
+  "title": "Mario Bellini",
+  "body": "null",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"mario-bellini\",\n  \"data\": {\n    \"id\": \"pcol_01GPV2N4WZBJZWZXF1F3JPC2EK\",\n    \"created_at\": \"2023-01-15T16:02:01.758Z\",\n    \"updated_at\": \"2023-01-15T16:02:01.758Z\",\n    \"deleted_at\": null,\n    \"title\": \"Mario Bellini\",\n    \"handle\": \"mario-bellini\",\n    \"metadata\": {\n      \"description\": null\n    }\n  }\n}"
+}

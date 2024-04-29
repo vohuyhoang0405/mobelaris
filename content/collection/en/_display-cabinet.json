@@ -1,0 +1,6 @@
+{
+  "slug": "/display-cabinet",
+  "title": "Display Cabinet",
+  "body": "Our modern display cabinets from Designer Editions come in a choice of styles to help you find the look you want and match to your other furniture. Buying direct from the factory, we are able to offer our customers the best in design and price",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"display-cabinet\",\n  \"data\": {\n    \"id\": \"pcol_01GQ45E5R4YSVXNNGMY581GXDG\",\n    \"created_at\": \"2023-01-19T04:43:48.868Z\",\n    \"updated_at\": \"2023-01-19T04:43:48.868Z\",\n    \"deleted_at\": null,\n    \"title\": \"Display Cabinet\",\n    \"handle\": \"display-cabinet\",\n    \"metadata\": {\n      \"description\": \"Our modern display cabinets from Designer Editions come in a choice of styles to help you find the look you want and match to your other furniture. Buying direct from the factory, we are able to offer our customers the best in design and price\"\n    }\n  }\n}"
+}

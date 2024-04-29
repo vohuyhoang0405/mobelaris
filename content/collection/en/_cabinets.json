@@ -1,0 +1,6 @@
+{
+  "slug": "/cabinets",
+  "title": "Cabinets",
+  "body": "Modern bookcases and shelving by Designer Editions, sourced and manufactured to the highest quality. Buying direct from the factory, we are able to offer our customers the best in design and price. We add new contemporary bookcases and shelving weekly, which can be delivered throughout Europe",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"cabinets\",\n  \"data\": {\n    \"id\": \"pcol_01GQ45CNV8HWTT82KS1VKK17JB\",\n    \"created_at\": \"2023-01-19T04:42:59.814Z\",\n    \"updated_at\": \"2023-01-19T04:43:11.361Z\",\n    \"deleted_at\": null,\n    \"title\": \"Cabinets\",\n    \"handle\": \"cabinets\",\n    \"metadata\": {\n      \"description\": \"Modern bookcases and shelving by Designer Editions, sourced and manufactured to the highest quality. Buying direct from the factory, we are able to offer our customers the best in design and price. We add new contemporary bookcases and shelving weekly, which can be delivered throughout Europe\"\n    }\n  }\n}"
+}

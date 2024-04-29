@@ -1,0 +1,6 @@
+{
+  "slug": "/lighting",
+  "title": "Lighting",
+  "body": "At Designer Editions we are continually sourcing the best in modern lighting from across Europe and the Far East. We select only the highest quality in industrial, retro lighting influenced by Scandinavian style lighting, buying direct from the factory, making them affordable and available to you our customers.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"lighting\",\n  \"data\": {\n    \"id\": \"pcol_01GQ4506P3JPNMRVNRV2SEEJS5\",\n    \"created_at\": \"2023-01-19T04:36:11.074Z\",\n    \"updated_at\": \"2023-01-19T04:36:11.074Z\",\n    \"deleted_at\": null,\n    \"title\": \"Lighting\",\n    \"handle\": \"lighting\",\n    \"metadata\": {\n      \"description\": \"At Designer Editions we are continually sourcing the best in modern lighting from across Europe and the Far East. We select only the highest quality in industrial, retro lighting influenced by Scandinavian style lighting, buying direct from the factory, making them affordable and available to you our customers.\"\n    }\n  }\n}"
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "/reproduction-charles-eames-furniture",
+  "title": "Charles Eames",
+  "body": "<p>Who wouldn&rsquo;t love Charles Eames furniture? To answer your needs, Mobelaris has a wide range of designs for you.</p>",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"reproduction-charles-eames-furniture\",\n  \"data\": {\n    \"id\": \"pcol_01GPV25BJYSSAYBK9QPZHP8F4N\",\n    \"created_at\": \"2023-01-15T15:53:24.318Z\",\n    \"updated_at\": \"2023-01-15T15:53:24.318Z\",\n    \"deleted_at\": null,\n    \"title\": \"Charles Eames\",\n    \"handle\": \"reproduction-charles-eames-furniture\",\n    \"metadata\": {\n      \"description\": \"<p>Who wouldn&rsquo;t love Charles Eames furniture? To answer your needs, Mobelaris has a wide range of designs for you.</p>\"\n    }\n  }\n}"
+}

@@ -1,0 +1,95 @@
+{
+  "blocks": [
+    {
+      "display": "Danish Classics For Less",
+      "datetime": "2024-04-14T16:00:00.000Z",
+      "link": "fr-fr/express-delivery",
+      "color": "#2A2A2A",
+      "desktop": {
+        "bg": "/_next_tina/uploads/DC-24-HP-FR.jpg",
+        "countdown_postion": "{\"font\":\"fontheading\",\"top\":\"76\",\"width\":\"23\",\"font-size\":\"33\",\"left\":\"10\"}"
+      },
+      "mobile": {
+        "bg_mobile": "/_next_tina/uploads/DC-24-HP-MOB-FR.jpg",
+        "mobile_countdown_postion": "{\"font\":\"fontheading\",\"top\":\"47\",\"width\":\"64\",\"font-size\":\"10\",\"left\":\"19\"}"
+      },
+      "_template": "heroCustomBlock"
+    },
+    {
+      "display": "EXTENDED - COLOURS OF SPRING 2024",
+      "datetime": "2024-04-08T16:00:00.000Z",
+      "link": "fr-fr/express-delivery",
+      "color": "#313131",
+      "desktop": {
+        "bg": "/_next_tina/uploads/BHS-Colours-of-Spring-home-Extended-FR.jpg",
+        "video_link": "",
+        "countdown_postion": "{\"font\":\"fontheading\",\"top\":\"59\",\"left\":\"26\",\"width\":\"23\",\"font-size\":\"39\"}"
+      },
+      "mobile": {
+        "bg_mobile": "/_next_tina/uploads/BHS-Colours-of-Spring-mob-ext-FR.jpg",
+        "video_link": "",
+        "mobile_countdown_postion": "{\"font\":\"fontheading\",\"top\":\"69\",\"width\":\"60\",\"font-size\":\"11\",\"left\":\"18\"}"
+      },
+      "_template": "heroCustomBlock"
+    },
+    {
+      "display": "48 HRS LEFT - IN STOCK SALE 2024",
+      "datetime": "2024-02-11T16:00:00.000Z",
+      "link": "fr-fr/express-delivery",
+      "color": "#2A2A2A",
+      "desktop": {
+        "bg": "/_next_tina/uploads/IS-48-FR.gif",
+        "countdown_postion": "{\"font\":\"fontheading\",\"top\":\"85\",\"width\":\"24\",\"font-size\":\"33\",\"left\":\"38\"}"
+      },
+      "mobile": {
+        "bg_mobile": "/_next_tina/uploads/IS-48-MOB-FR.jpg",
+        "mobile_countdown_postion": "{\"font\":\"fontheading\",\"top\":\"68\",\"width\":\"59\",\"font-size\":\"10\",\"left\":\"21\"}"
+      },
+      "_template": "heroCustomBlock"
+    },
+    {
+      "display": "Beetle Chairs  On Sale",
+      "datetime": "2023-10-23T16:00:00.000Z",
+      "link": "/express-delivery",
+      "color": "#2A2A2A",
+      "desktop": {
+        "bg": "/_next_tina/uploads/Beetles-FR-01.png",
+        "video_link": "https://fast.wistia.net/embed/iframe/p13vjoowgz",
+        "countdown_postion": "{\"font\":\"fontheading\",\"top\":\"76\",\"font-size\":\"24\",\"width\":\"25\",\"left\":\"38\"}"
+      },
+      "mobile": {
+        "bg_mobile": "/_next_tina/uploads/Beetles1-mobile-FR.png",
+        "video_link": "https://fast.wistia.net/embed/iframe/xlz250axhb",
+        "mobile_countdown_postion": "{\"font\":\"fontheading\",\"top\":\"67\",\"width\":\"57\",\"font-size\":\"12\",\"left\":\"21\"}"
+      },
+      "_template": "heroCustomBlock"
+    },
+    {
+      "display": "Wishbone Homepage Banner",
+      "datetime": "2023-08-27T16:00:00.000Z",
+      "link": "/fr-fr/express-delivery",
+      "color": "#2A2A2A",
+      "desktop": {
+        "bg": "/_next_tina/uploads/WISHBONE-homepage-FR.png",
+        "video_link": "",
+        "countdown_postion": "{\"font\":\"fontheading\",\"width\":\"25\",\"font-size\":\"29\",\"left\":\"38\",\"top\":\"76\"}"
+      },
+      "mobile": {
+        "bg_mobile": "/_next_tina/uploads/WISHBONE-mobile-FR.png",
+        "video_link": "",
+        "mobile_countdown_postion": "{\"font\":\"fontheading\",\"top\":\"67\",\"font-size\":\"11\",\"width\":\"55\",\"left\":\"23\"}"
+      },
+      "_template": "heroCustomBlock"
+    },
+    {
+      "datetime": "2023-06-18T16:00:00.000Z",
+      "link": "/fr-fr/express-delivery",
+      "bg": "/_next_tina/uploads/Sizzling-Summer-Sale-Banner-FR.jpg",
+      "color": "#2A2A2A",
+      "countdown_postion": "{\"top\":\"80\",\"left\":\"37\",\"width\":\"25\",\"font-size\":\"31\",\"font\":\"Verlag Black\"}",
+      "bg_mobile": "/_next_tina/uploads/Sizzling-Summer-Sale-Mobile-FR.jpg",
+      "mobile_countdown_postion": "{\"top\":\"67\",\"left\":\"16\",\"width\":\"69\",\"font-size\":\"19\",\"font\":\"Verlag Black\"}",
+      "_template": "hero"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+.ais-ClearRefinements {
+  margin: 1em 0;
+}
+
+.ais-SearchBox {
+  margin: 1em 0;
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.ais-Hits-list {
+  @apply grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4 md:gap-6;
+}
+
+.left-panel {
+  float: left;
+  width: 200px;
+}
+
+.right-panel {
+  margin-left: 210px;
+}
+
+.ais-InstantSearch {
+  max-width: 960px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.ais-Hits-item img {
+  margin-right: 1em;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 0.5em;
+}
+
+.hit-name {
+  margin-bottom: 0.5em;
+}
+
+.hit-description {
+  color: grey;
+  margin-bottom: 0.5em;
+}
+
+.hit-info {
+  font-size: 90%;
+}
+.ais-SortBy-select {
+  background: transparent;
+}

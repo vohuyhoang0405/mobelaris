@@ -1,0 +1,6 @@
+{
+  "slug": "/tables",
+  "title": "Tables",
+  "body": "Modern tables ranging from dining, coffee, hallway, console and side tables. Offering cosy dining with the family, or raucous, entertainment with friends Designer Editions offer them all.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"tables\",\n  \"data\": {\n    \"id\": \"pcol_01GQ44WRZ1ZK8S4JMRMEASQXDJ\",\n    \"created_at\": \"2023-01-19T04:34:18.720Z\",\n    \"updated_at\": \"2023-01-19T04:34:18.720Z\",\n    \"deleted_at\": null,\n    \"title\": \"Tables\",\n    \"handle\": \"tables\",\n    \"metadata\": {\n      \"description\": \"Modern tables ranging from dining, coffee, hallway, console and side tables. Offering cosy dining with the family, or raucous, entertainment with friends Designer Editions offer them all.\"\n    }\n  }\n}"
+}

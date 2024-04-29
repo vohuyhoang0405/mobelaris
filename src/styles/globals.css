@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: normal;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    font-family: var(--font-body);
+  }
+}
+/* a:hover {
+  @apply text-primary;
+} */
+#__next {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
+html {
+  overflow-y: scroll;
+}
+.btn-magic {
+  @apply btn relative w-auto gap-3 overflow-hidden border  border-current bg-transparent uppercase text-white before:absolute before:inset-0 before:z-[-1]
+  before:transform  
+  before:bg-current 
+  before:transition-transform 
+  before:duration-700 
+  before:ease-in-out 
+  before:content-[''] 
+  after:absolute 
+  after:inset-0 
+  after:z-[-1] 
+  after:transform 
+  after:bg-current 
+  after:transition-transform 
+  after:duration-700 
+  after:ease-in-out 
+  after:content-['']
+  hover:border-current
+  hover:bg-transparent 
+  hover:text-current 
+  hover:before:translate-x-[-100%]
+  hover:after:translate-x-[100%];
+}
+input[type="number"]::-webkit-inner-spin-button {
+  opacity: 1;
+}
+
+.carousel {
+  width: 100%;
+}
+
+:root:has(
+    :is(
+        .modal-open,
+        .modal:target,
+        .modal-toggle:checked + .modal,
+        .modal[open]
+      )
+  ) {
+  padding-right: var(--scrollbar-width);
+}
+
+:root,
+[data-theme] {
+  background-color: theme(colors.base-100);
+  color: theme(colors.base-content);
+}
+
+@supports not (color: oklch(0 0 0)) {
+  :root {
+    color-scheme: light;
+    --fallback-p: #fa9901;
+    --fallback-s: #32c4a3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --fallback-p: #fa9901;
+      --fallback-s: #32c4a3;
+    }
+  }
+}

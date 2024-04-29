@@ -1,0 +1,6 @@
+{
+  "slug": "/chairs",
+  "title": "Chairs",
+  "body": "Looking for a modern chairs or Scandinavian chairs? You've come to the right place. Designer Editions has an extensive selection of Scandi chairs in various materials, fabric and options. We buy direct from the manufacturer, therefore cutting out the middleman and associated costs and pass those savings onto you our beloved customer.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"chairs\",\n  \"data\": {\n    \"id\": \"pcol_01GQ44V8J7QZZGQ9PJ6PMB3T8E\",\n    \"created_at\": \"2023-01-19T04:33:29.158Z\",\n    \"updated_at\": \"2023-01-19T04:33:29.158Z\",\n    \"deleted_at\": null,\n    \"title\": \"Chairs\",\n    \"handle\": \"chairs\",\n    \"metadata\": {\n      \"description\": \"Looking for a modern chairs or Scandinavian chairs? You've come to the right place. Designer Editions has an extensive selection of Scandi chairs in various materials, fabric and options. We buy direct from the manufacturer, therefore cutting out the middleman and associated costs and pass those savings onto you our beloved customer.\"\n    }\n  }\n}"
+}

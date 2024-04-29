@@ -1,0 +1,6 @@
+{
+  "slug": "/bernard-albin-gras",
+  "title": "Bernard-Albin Gras",
+  "body": "null",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"bernard-albin-gras\",\n  \"data\": {\n    \"id\": \"pcol_01GPV2MZ2KY5989QY1QA0DPTZ6\",\n    \"created_at\": \"2023-01-15T16:01:55.795Z\",\n    \"updated_at\": \"2023-01-15T16:01:55.795Z\",\n    \"deleted_at\": null,\n    \"title\": \"Bernard-Albin Gras\",\n    \"handle\": \"bernard-albin-gras\",\n    \"metadata\": {\n      \"description\": null\n    }\n  }\n}"
+}

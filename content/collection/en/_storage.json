@@ -1,0 +1,6 @@
+{
+  "slug": "/storage",
+  "title": "Storage",
+  "body": "White Oak modern storage ranging from hallway shoe cabinets, and sideboards to complete TV stands and bookcases. Designer Editions offers some of the best storage furniture from Europe’s leading designers and manufacturers.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"storage\",\n  \"data\": {\n    \"id\": \"pcol_01GQ451ZTP9S4459D2Y1QREFVM\",\n    \"created_at\": \"2023-01-19T04:37:09.590Z\",\n    \"updated_at\": \"2023-01-19T04:37:09.590Z\",\n    \"deleted_at\": null,\n    \"title\": \"Storage\",\n    \"handle\": \"storage\",\n    \"metadata\": {\n      \"description\": \"White Oak modern storage ranging from hallway shoe cabinets, and sideboards to complete TV stands and bookcases. Designer Editions offers some of the best storage furniture from Europe’s leading designers and manufacturers.\"\n    }\n  }\n}"
+}

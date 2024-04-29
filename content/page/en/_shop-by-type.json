@@ -1,0 +1,6 @@
+{
+  "slug": "/shop-by-type",
+  "title": "Shop by type:-",
+  "body": "null",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"shop-by-type\",\n  \"data\": {\n    \"collectionid\": \"pcol_01GPV23KYNQJXAK6MP070ZAPW6\",\n    \"collectionHandle\": \"shop-by-type\"\n  }\n}"
+}

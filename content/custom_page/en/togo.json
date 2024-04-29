@@ -1,0 +1,70 @@
+{
+  "product": {
+    "handle": "style-michel-ducaroy-mobelaris-comfort-style-2-seater-sofa"
+  },
+  "hero": {
+    "title": "Togo Style Sofa",
+    "image": "https://imageproxy.mobelaris.com/api/images/dfgbpib38/image/upload/e_trim/media/catalog/product/t/o/togo_style_2-seater_sofa_velvet_dark_red_02.png",
+    "background": "https://www.mobelaris.com/static/version1683613451/frontend/Mobelaris/Theme/en_GB/Alan_ProductLandingPage/images/togo/hero-bg.jpg",
+    "description": "Mobelaris Togo Style Sofa Set is the perfect reproduction of the mid-century vintage classic by French seating designer, Michel Ducaroy. Want the warmth of comfort and nostalgia wrapped into a cushion of luxury? This is the set for you.\n",
+    "description_2": "Inspired by: Mobelaris\n",
+    "tabs": [
+      "DESCRIPTION",
+      "DIMENSION",
+      "FAQs"
+    ]
+  },
+  "products": {
+    "title": "Available online in 7 colors made completely from high-quality polyurethane foam.",
+    "button_text": "VIEW ALL",
+    "url": "/style-michel-ducaroy-mobelaris-comfort-style-2-seater-sofa"
+  },
+  "productInspiration": {
+    "title": "Sink Into Luxurious Vintage Comfort",
+    "content": "The Togo Style Sofa is an iconic mid-century design that remains a coveted piece in modern times. It was designed by iconic French designer Michel Ducaroy in 1973 and was originally produced by a company in France.\n"
+  },
+  "infomation": {
+    "product_specification": {
+      "title": "Product specification",
+      "content": "<table class=\"no-border\"><tbody><tr><td style=\"border: none;\"><ul><li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Frame:</p> Polyurethane Foam</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Style:</p> Mid Century Classic</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Upholtery:</p> Velvet Fabric</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Warraty:</p> 5 Years</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Specil:</p> Reproduced As Per Original</li></ul></td><td style=\"border: none;\"><ul><li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Assembly:</p> Fully Assembled</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Instructions:</p> Applicable</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Clean:</p> Dust / Light Vacuum</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Comment:</p> Complement with Togo Ottoman</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Comment:</p> Create Your Personal Comfort</li></ul></td></tr></tbody></table>\n"
+    },
+    "product_information": {
+      "title": "PRODUCT INFORMATION",
+      "content": "<table class=\"no-border\"><tbody><tr><td style=\"border: none;\"><ul><li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Dimension:</p> Width 175cm, Depth 101cm, Height 70cm</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Seat Dimension:</p> Height 38cm (approximate)</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">Packing Dimension:</p> Width 180cm, Depth 105cm, Height 75cm</li> <li style=\"text-align: left;\"><p style=\"font-weight:bold;\">CBM:</p> 1.418 Weight: 48kg</li></ul></td></tr></tbody></table>\n"
+    },
+    "image": "https://imageproxy.mobelaris.com/api/images/dfgbpib38/image/upload/e_trim,w_1440,c_limit,q_auto,f_auto/media/catalog/product/t/o/togo_style_2-seater_sofa_velvet_dark_red_desc_01.png"
+  },
+  "video": {
+    "url": "https://fast.wistia.net/embed/iframe/jkvy2wy1kv?videoFoam=true"
+  },
+  "faqs": {
+    "title": "TOGO STYLE SOFA - FAQs",
+    "description": "Find answers for common questions about Togo Style Sofa",
+    "questions": [
+      {
+        "question": "Is the fabric on the Togo Style Sofa washable?",
+        "answer": "The upholstery is spot clean only."
+      },
+      {
+        "question": "How do you care for the Togo Style Sofa?",
+        "answer": "You can do daily dusting and light vacuuming on the Togo Style Sofas to maintain them."
+      },
+      {
+        "question": "Does the Togo Style Sofa have matte or satin sheen?",
+        "answer": "Our Togo Style Sofas have a matte sheen."
+      },
+      {
+        "question": "What is the Togo Style Sofa made from?",
+        "answer": "The frame is made of multiple density UK fire foam. It is gloved with man-made wadding for extra comfort and upholstered in Creamy, Boucle, Alcantara, or Velvet."
+      },
+      {
+        "question": "Do you sell the Togo Style Sofa in sets?",
+        "answer": "We sell them separately so you can mix and match your Togo Style set to fit your space. Click [here](https://www.mobelaris.com/en/search/?q=togo) to browse and pick Togo Sofas."
+      },
+      {
+        "question": "Does it come with a warranty?",
+        "answer": "Yes, our Togo Style Sofas come with a 5-year warranty."
+      }
+    ]
+  }
+}

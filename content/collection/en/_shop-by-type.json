@@ -1,0 +1,6 @@
+{
+  "slug": "/shop-by-type",
+  "title": "Shop by type:-",
+  "body": "null",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"shop-by-type\",\n  \"data\": {\n    \"id\": \"pcol_01GPV23KYNQJXAK6MP070ZAPW6\",\n    \"created_at\": \"2023-01-15T15:52:27.349Z\",\n    \"updated_at\": \"2023-01-15T15:52:27.349Z\",\n    \"deleted_at\": null,\n    \"title\": \"Shop by type:-\",\n    \"handle\": \"shop-by-type\",\n    \"metadata\": {\n      \"description\": null\n    }\n  }\n}"
+}

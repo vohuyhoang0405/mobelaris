@@ -1,0 +1,6 @@
+{
+  "slug": "/accessories",
+  "title": "Accessories",
+  "body": "It takes more than just furniture to create the perfect room, which is why we work hard to find the most unique offerings in Scandinavian style accessories. Our original pieces are high-quality and will provide the perfect touch to any room.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"accessories\",\n  \"data\": {\n    \"id\": \"pcol_01GQ4530HJ9MWZFQ4MWJ5CT9ZB\",\n    \"created_at\": \"2023-01-19T04:37:43.087Z\",\n    \"updated_at\": \"2023-01-19T04:37:43.087Z\",\n    \"deleted_at\": null,\n    \"title\": \"Accessories\",\n    \"handle\": \"accessories\",\n    \"metadata\": {\n      \"description\": \"It takes more than just furniture to create the perfect room, which is why we work hard to find the most unique offerings in Scandinavian style accessories. Our original pieces are high-quality and will provide the perfect touch to any room.\"\n    }\n  }\n}"
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "/chest-of-drawers",
+  "title": "Chest of Drawers",
+  "body": "Modern chest of draw furniture from Designer Editions. We bring a collection of furniture decorative and functional, Modern oak chest of draw storage. Adding new products weekly, delivery throughout Europe we hope you enjoy your purchase with us",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"chest-of-drawers\",\n  \"data\": {\n    \"id\": \"pcol_01GQ459CC46B60EGTVNKA1DZ3M\",\n    \"created_at\": \"2023-01-19T04:41:11.811Z\",\n    \"updated_at\": \"2023-01-19T04:41:11.811Z\",\n    \"deleted_at\": null,\n    \"title\": \"Chest of Drawers\",\n    \"handle\": \"chest-of-drawers\",\n    \"metadata\": {\n      \"description\": \"Modern chest of draw furniture from Designer Editions. We bring a collection of furniture decorative and functional, Modern oak chest of draw storage. Adding new products weekly, delivery throughout Europe we hope you enjoy your purchase with us\"\n    }\n  }\n}"
+}

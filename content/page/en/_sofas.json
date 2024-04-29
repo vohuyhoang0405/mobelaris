@@ -1,0 +1,6 @@
+{
+  "slug": "/sofas",
+  "title": "Sofas",
+  "body": "Scandinavian designer sofas by Designer Editions, delivered directly to your door. Offering the best in retro sofas, Scandi style. Cool urban living, designer sofas for all.",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"sofas\",\n  \"data\": {\n    \"collectionid\": \"pcol_01GQ44YAX7KF3MYHSMZA6NQM9R\",\n    \"collectionHandle\": \"sofas\"\n  }\n}"
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "/2-seat-sofas",
+  "title": "2 Seater Sofa",
+  "body": "<p><span>We are passionate about design. Yes, passionate about modern 2 seater sofas, bonkers about it in fact. We search the globe to bring you, our much loved customers, the best in Scandinavian designer sofas - Coziness defined</span></p>",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"2-seat-sofas\",\n  \"data\": {\n    \"id\": \"pcol_01GPV1F7VSC2JKKX9RTZ4XJ4T9\",\n    \"created_at\": \"2023-01-15T15:41:19.606Z\",\n    \"updated_at\": \"2023-01-15T15:41:19.606Z\",\n    \"deleted_at\": null,\n    \"title\": \"2 Seater Sofa\",\n    \"handle\": \"2-seat-sofas\",\n    \"metadata\": {\n      \"description\": \"<p><span>We are passionate about design. Yes, passionate about modern 2 seater sofas, bonkers about it in fact. We search the globe to bring you, our much loved customers, the best in Scandinavian designer sofas - Coziness defined</span></p>\"\n    }\n  }\n}"
+}

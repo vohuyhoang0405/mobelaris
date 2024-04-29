@@ -1,0 +1,6 @@
+{
+  "slug": "/3-seat-sofas",
+  "title": "3 Seater Sofa",
+  "body": "<p><span>Scouring the globe, mountains, molehills and ravines to bring you, our much respected customers the best in Vintage, Scandinavian and Dutch 3 seat sofas, available in various fabrics and wood finishes to stylize your home.</span></p>",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"3-seat-sofas\",\n  \"data\": {\n    \"id\": \"pcol_01GPV1G1PSH29TXMMH48M3Z1EV\",\n    \"created_at\": \"2023-01-15T15:41:46.073Z\",\n    \"updated_at\": \"2023-01-15T15:41:46.073Z\",\n    \"deleted_at\": null,\n    \"title\": \"3 Seater Sofa\",\n    \"handle\": \"3-seat-sofas\",\n    \"metadata\": {\n      \"description\": \"<p><span>Scouring the globe, mountains, molehills and ravines to bring you, our much respected customers the best in Vintage, Scandinavian and Dutch 3 seat sofas, available in various fabrics and wood finishes to stylize your home.</span></p>\"\n    }\n  }\n}"
+}

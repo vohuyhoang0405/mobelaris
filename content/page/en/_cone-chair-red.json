@@ -1,0 +1,6 @@
+{
+  "slug": "/cone-chair-red",
+  "title": "Cone Chair Deep Red",
+  "body": "\r\nOne of Panton&rsquo;s classic design, the Cone Chair was originally designed for a Danish restaurant. The chair consists of a cone-shaped metal frame which rotates at its base on a cross-shaped metal foot. The back of the cone and the cushion which is fitted into its opening are upholstered in cloth. Visitors to your home are sure to want one for themselves.",
+  "JSON": "{\n  \"type\": \"variant\",\n  \"handle\": \"cone-chair-red\",\n  \"data\": {\n    \"productId\": \"prod_01GPR3WZFRFTC8ERTVD1X9AFN9\",\n    \"productHandle\": \"cone-chair-verner-panton\",\n    \"hadnleId\": \"variant_01GPR3WZGBTAQSM95W5WT7FFSF\",\n    \"variantHandle\": \"cone-chair-red\"\n  }\n}"
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "/designer-clock",
+  "title": "Designer clock",
+  "body": "undefined",
+  "JSON": "{\n  \"type\": \"collection\",\n  \"handle\": \"designer-clock\",\n  \"data\": {\n    \"id\": \"pcol_01GQ457A6G1PF0SY50RKN00NRE\",\n    \"created_at\": \"2023-01-19T04:40:04.047Z\",\n    \"updated_at\": \"2023-01-19T04:40:04.047Z\",\n    \"deleted_at\": null,\n    \"title\": \"Designer clock\",\n    \"handle\": \"designer-clock\",\n    \"metadata\": {}\n  }\n}"
+}
